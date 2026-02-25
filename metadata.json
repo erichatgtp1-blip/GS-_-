@@ -1,0 +1,5 @@
+{
+  "name": "學校碳排放四象限儀表板",
+  "description": "A visualization tool using a 4-quadrant scatter plot and an interactive Taiwan map to analyze school carbon emissions, population, and per-capita data.",
+  "requestFramePermissions": []
+}
